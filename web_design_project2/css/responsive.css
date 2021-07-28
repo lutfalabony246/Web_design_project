@@ -1,0 +1,340 @@
+@media(max-width: 1200px){
+
+}
+@media(max-width: 992px){
+.about_us .hey_buddy{}	
+.hey_buddy img{
+	width: 99%;
+	margin-top: .90in;
+	}
+	.our_services{}
+
+	.our_services .g__change .elipse1{
+		position: relative;
+	 right: .3225in; */
+	}
+	.our_services{}
+	.our_services .g__change .elipse2{
+		position: relative;
+		right: .3225in;
+	}
+	.our_services{}
+	.our_services .g__change .elipse3{
+		position: relative;
+		right: .3225in;
+		 /*  bottom: .533in;  */
+	}
+	.our_services .g__change{}
+	.our_services .g__change .graphic p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10pt;
+    text-align: center;
+    font-weight: 400;
+    position: relative;
+    top: .431in;
+   /*  margin-left: in;
+    margin-right: ; */
+    color: black;
+}
+.our_services .g__change .web p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10pt;
+    text-align: center;
+    font-weight: 400;
+    position: relative;
+    top: .431in;
+   /*  margin-left: in;
+    margin-right: ; */
+    color: black;
+}
+.our_services .g__change .seo{
+	position: relative;
+/* 	bottom: .24in; */
+}
+
+.our_services .g__change .seo p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10pt;
+    text-align: center;
+    font-weight: 400;
+    /* position: relative; */
+   /*  top: .431in; */
+   /*  margin-left: in;
+    margin-right: ; */
+    color: black;
+}
+.our_services .g__change .goltu1{
+	position: relative;
+	right: 1.90in;
+}
+.main_menu .nav-item {
+		position: relative;
+		right: 1.89in;
+}
+/* .overlayRight{
+    height: 81.5%;
+    width: 0;
+    top:0;
+    right:0;
+    background-color:black;
+    padding-right: .30in;
+}
+.describe:hover  .overlayRight {
+    width:34%;
+} */
+ .testimonial .ii{
+ position: relative;
+right: .45in; */
+
+} 
+.info_part .con{
+
+}
+.con span{
+	margin-left: .45in;
+}
+.info_part .important_links .table{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.about_us .us{
+	position: relative;
+	bottom: .50in;
+}
+
+.our_team .over1{
+	height: 84.5%;
+    width: 0;
+    top:0;
+    right:0;
+    background-color:black;
+    padding-right: .30in;
+}
+.describe:hover  .over1 {
+    width:34%;
+}
+.center .port{}
+.port .overlaych{
+	 width: 100%;
+    top:12.5%;
+    left:0;
+    background-color: black;
+}
+.port:hover .overlaych{
+  
+    background-color: black;
+}  
+.port .overlaych1{
+	 width: 100%;
+    top:-15%;
+    left:0;
+    background-color: black;
+}
+.port:hover .overlaych1{
+   height: 89.5%;
+   background-color: black;
+} 
+.overy{
+    width: 100%;
+    height: 0;
+    top:10%;
+    left:0;
+    background-color: black;
+} 
+.port:hover .overy  {
+    height: 20%; 
+    background-color: black;
+} 
+
+
+}
+
+		
+@media(max-width: 768px){
+	.main_menu .nav-item{
+		margin-right: 1.50in;
+	}
+	/* .top_bar .welcome1{}
+.welcome1 h6{
+	
+	position: relative;
+	top: .10in;
+	right: .17in;
+
+}
+.top_bar .chuka{}
+.chuka i{
+	position: relative;
+	bottom: .10in;
+} */
+/* .about_us .us{
+	position: relative;
+	bottom: .50in;
+} */
+.info_part .con{
+
+}
+.con span{
+	margin-right: .95in;
+}
+.testimonial .ii{
+ position: relative;
+right: 1.10in; */
+
+} 
+.testimonial .review{}
+.review .reu1 p{
+	font-size: 10pt;
+}
+.our_services .uiu .goltu1{
+	position: relative;
+	margin-left: -.41in;
+}
+.our_services .uiu .goltu2{
+	position: relative;
+	margin-left: -.41in;
+}
+.our_services .uiu .goltu3{
+	position: relative;
+	margin-left: -.41in;
+}
+.our_team .over1{
+	height: 89.5%;
+    width: 0;
+    top:0;
+    right:0;
+    background-color:black;
+    padding-right: .30in;
+}
+.describe:hover  .over1 {
+    width:34%;
+}
+.center .port{}
+.port .overlaych{
+	 width: 100%;
+    top:12.5%;
+    left:0;
+    background-color: black;
+}
+.port:hover .overlaych{
+  
+    background-color: black;
+}  
+.port .overlaych1{
+	 width: 100%;
+    top:-15%;
+    left:0;
+    background-color: black;
+}
+.port:hover .overlaych1{
+   height: 89.5%;
+   background-color: black;
+} 
+.overy{
+    width: 100%;
+    height: 0;
+    top:10%;
+    left:0;
+    background-color: black;
+} 
+.port:hover .overy  {
+    height: 20%; 
+    background-color: black;
+} 
+.our_portfolio 
+{}
+
+}
+
+
+@media(max-width: 576px){
+.welcome1 h6{
+	
+	position: relative;
+	top: .10in;
+	right: .17in;
+}
+.top_bar .chuka{}
+.chuka i{
+	position: relative;
+	bottom: .10in;
+	
+}
+ .our_services .uiu .goltu1{
+	
+	position: relative;
+	left: 2.85in;
+	top: .60in;
+}
+.our_services .uiu .goltu2{
+	position: relative;
+	left: 2.85in;
+	top: .60in;
+}
+.our_services .uiu .goltu3{
+	position: relative;
+	left: 2.85in;
+	top: .60in;
+} 
+.our_services .uiu .graphic{}
+.graphic h4{
+	padding-top: .30in;
+	font-size: 16pt;
+}
+.our_services .uiu .web{}
+.web h4{
+	padding-top: .30in;
+	font-size: 16pt;
+}
+.our_services .uiu .seo{}
+.seo h4{
+	padding-top: .30in;
+	font-size: 16pt;
+}
+.testimonial .ii{
+ position: relative;
+left: -.10in; 
+
+} 
+.info_part .con{
+
+}
+.con span{
+	margin-right: -.01in;
+}
+.our_team .over1{
+	height: 93%;
+    width: 0;
+    top:0;
+    right:0;
+    background-color:black;
+    padding-right: .30in;
+}
+.describe:hover  .over1 {
+    width:34%;
+}
+.info_part .con{
+
+}
+.con .box{
+ 	margin-left: 1.20in;
+ }
+ .info_part .con{
+
+}
+ .con .box1{
+ 	margin-left: 1.20in;
+ }
+ .info_part .con{
+
+}
+ .con .box2{
+ 	margin-left: 1.20in;
+ }
+
+.con span{
+	margin-right: .45in;
+}
+
+}
